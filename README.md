@@ -4,25 +4,14 @@ For ITC-134
 
 Basic Commands
 *** 
-8
 - Git clone and url / downloads project to local machine
-9
 - Git help / (cmd ) 
-10
 - Git branch / List all the branches in your repo, and also tell you what branch you're currently in
-11
 - Git pull / Fetch and merge changes on the remote server to your working directory:
-12
 - Git status / List the files you've changed and those you still need to add or commit
-13
 - Git commit -a -m / Commit any files you've added with git add, and also commit any files you've changed since then
-14
 - Git merge <branch name> / To merge a different branch into your active branch
-15
 - Git add <file name> / Add one or more files to staging 
-16
-​
-17
 ***
 
 
