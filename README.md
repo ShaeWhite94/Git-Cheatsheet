@@ -22,7 +22,7 @@ Linux
 - Head file / output first ten files
 - Man cmnd / manual command
 - git log / Lists version history for the current branch
-
+***
 Windows
 - Ls la / show folder content 
 - git branch / list your branches. a * will appear next to the currently active branch
@@ -35,7 +35,7 @@ Windows
 
     SSL Certificate error: git config --system http.sslcainfo
     "C:\Users\YOURUSERNAMEHERE\AppData\Local\Programs\Git\mingw64\ssl\certs\ca-bundle.crt"
-
+***
 Creating/Using
 
     git diff / Compare modified files
@@ -45,7 +45,7 @@ Creating/Using
     Git branch -a / show all branches
     Git clone + (url) / clone to local host
 
-
+***
 Collaboration
 
     Git init / create new repository / initialize
@@ -53,7 +53,7 @@ Collaboration
     Which git / See where Git is located
     ls -la / show folder content
     git --version / get the version of git
-
+***
 Jargon
 
     Functor / something that supports maps and lists
