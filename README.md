@@ -3,20 +3,36 @@
 For ITC-134
 
 Basic Commands
-
-    Git Help: shows list of basic available commands
-
-    Git Clone <Repository URL>: Clone a repository to a local machine
-
-    Git Branch: List branches. Labels currently viewed branches with green highlight and *
-
-    Git Status: Lists the files that have been changed, added or, commited
-
-    Git Commit -a -m "message": commit any changes made on local machine
-
+*** 
+8
+- Git clone and url / downloads project to local machine
+9
+- Git help / (cmd ) 
+10
+- Git branch / List all the branches in your repo, and also tell you what branch you're currently in
+11
+- Git pull / Fetch and merge changes on the remote server to your working directory:
+12
+- Git status / List the files you've changed and those you still need to add or commit
+13
+- Git commit -a -m / Commit any files you've added with git add, and also commit any files you've changed since then
+14
+- Git merge <branch name> / To merge a different branch into your active branch
+15
+- Git add <file name> / Add one or more files to staging 
+16
+​
+17
+***
 
 
 Linux
+- Ls / directory listing 
+- git show [commit] / Outputs metadata and content changes of the specified commit
+- Cd / change directory
+- Head file / output first ten files
+- Man cmnd / manual command
+- git log / Lists version history for the current branch
 
 Windows
 - Ls la / show folder content 
@@ -26,7 +42,7 @@ Windows
 - Pwd / to see the path you’re currently in 
 - git push  [branch]  / Transmit local branch commits to the remote repository branch
 
-     rmdir <repository name> /s /q: to remove working copy off local machine
+  rmdir <repository name> /s /q: to remove working copy off local machine
 
     SSL Certificate error: git config --system http.sslcainfo
     "C:\Users\YOURUSERNAMEHERE\AppData\Local\Programs\Git\mingw64\ssl\certs\ca-bundle.crt"
