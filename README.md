@@ -1,5 +1,3 @@
-
-
 # Git-Cheatsheet
 For ITC-134
 
@@ -54,9 +52,11 @@ Collaboration
 - ls -la / show folder content
 - git --version / get the version of git
 ***
+
 Jargon
 ***
 - functor / something that supports maps and lists
 - Semigroup / anything that supports appending
 - Applicative / extension of functor
 - Monad / support for bind
+***
