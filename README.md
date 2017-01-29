@@ -1,4 +1,5 @@
 
+
 # Git-Cheatsheet
 For ITC-134
 
@@ -16,6 +17,7 @@ Basic Commands
 
 
 Linux
+***
 - Ls / directory listing 
 - git show [commit] / Outputs metadata and content changes of the specified commit
 - Cd / change directory
@@ -25,6 +27,7 @@ Linux
 ***
 
 Windows
+***
 - Ls la / show folder content 
 - git branch / list your branches. a * will appear next to the currently active branch
 - Git help / gives cheat sheet of help
@@ -34,7 +37,7 @@ Windows
 - rmdir <repository name> /s /q: to remove working copy off local machine
 ***
 Creating/Using
-
+***
 - git diff / Compare modified files
 - git push origin master / push to default
 - Git remote / show remote
@@ -44,7 +47,7 @@ Creating/Using
 
 ***
 Collaboration
-
+***
 - Git init / create new repository / initialize
 - git config --global alias.st status / Create an alias (shortcut) for git status
 - Which git / See where Git is located
@@ -52,8 +55,8 @@ Collaboration
 - git --version / get the version of git
 ***
 Jargon
-
-- Functor / something that supports maps and lists
+***
+- functor / something that supports maps and lists
 - Semigroup / anything that supports appending
 - Applicative / extension of functor
 - Monad / support for bind
