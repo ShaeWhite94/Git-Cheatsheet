@@ -23,6 +23,7 @@ Linux
 - Man cmnd / manual command
 - git log / Lists version history for the current branch
 ***
+
 Windows
 - Ls la / show folder content 
 - git branch / list your branches. a * will appear next to the currently active branch
