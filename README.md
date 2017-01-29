@@ -34,6 +34,7 @@ Windows
 - git push  [branch]  / Transmit local branch commits to the remote repository branch
 - rmdir <repository name> /s /q: to remove working copy off local machine
 ***
+
 Creating/Using
 ***
 - git diff / Compare modified files
@@ -44,6 +45,7 @@ Creating/Using
 - Git clone + (url) / clone to local host
 
 ***
+
 Collaboration
 ***
 - Git init / create new repository / initialize
